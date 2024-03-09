@@ -1,0 +1,8 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SempaiDarcy/backend-project.git",
+  "author": "chat <mr_darcy_1@mail.ru>",
+  "license": "MIT"
+}
